@@ -7,7 +7,7 @@ let arrLang = {
 		"menu-video": "Video",
 		"menu-tour": "tour",
 		"menu-contacts": "Contacts",
-		"promo-subtitle": "hardcore | electric-pop | folk-trance",
+		"promo-subtitle": "pure rock-n-roll",
 		"promo-follow": "follow us:",
 		"title-news": "news",
 		"btn-news-1": "Read more...",
@@ -31,6 +31,7 @@ let arrLang = {
 						incidunt rerum officiis omnis nihil odio eveniet
 						saepe, nulla, autem optio maiores.`,
 		"news-title-3": "6.6.6 New Gig in Moscow",
+		"title-music": "Music",
 	},
 
 	ru: {
